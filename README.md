@@ -2,8 +2,7 @@
 This is a solo project and a core part of a game I'm developing (which may also be shared on GitHub later).
 
 # Project goal 🎯
-Create a procedurally generated world that mimics the terrain and biome diversity of Earth. The generation is designed from scratch, inspired by real-world geography, but implemented with my own ideas and techniques. While there are similar projects out there, I’m challenging myself to build this **independently** with **randomness**. Yes, I will put randomness everywhere until I can't anymore
-
+Create a procedurally generated world that mimics the terrain and biome diversity of Earth. The generation is designed from scratch, inspired by real-world geography, but implemented with my own ideas and techniques. While there are similar projects out there, I’m challenging myself to build this **independently** with **randomness**. Yes, I will put randomness everywhere until I can't anymore. This project may eventually shift from an Earth-like world to a more fantasy-oriented realm, once key systems like terrain, biomes, and climate generation are in place. However, the Earth-like realm will be preserved and put in a new branch, just in case I'm bored with fantasy.
 # Contributions & Feedback 🤝
 * If you find my code confusing or feel like something could be improved — I'm very open to suggestions!
   * Advice and constructive criticism are always welcome.
